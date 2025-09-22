@@ -1,0 +1,112 @@
+What are the key shipping documents involved in shipments?
+
+Commercial Invoice: Used by importers for customs entry declaration, describing the import value for duties and taxes.
+Packing Slip: Lists the items included in the shipment for verification.
+Shipper’s Letter of Instruction: Provides specific instructions from the shipper to the freight forwarder or carrier regarding handling and delivery of goods.
+Shipment Summary or Detail Report: Contains detailed shipment information including serial numbers, carton IDs, country of origin, and more.
+How can I download shipping documents?
+
+Authorized users with appropriate access can download shipping documents.
+Access the "Print Shipping Documents" option via the designated system or portal.
+Select the document type, enter search criteria (e.g., Purchase Order Number, Ship Set Number), and download the desired document.
+Some product categories may have specific document types available in the shipping documentation tool.
+When are shipping documents available for download?
+
+Shipping documents are available once the order status is "Shipping" or "Invoiced."
+Documents are only available for physical shipments, not for electronic delivery products.
+Commercial invoices are generated per ship set; multiple ship sets mean multiple invoices.
+Can I request shipping to a home address?
+
+Shipping to a home address is allowed for catalog items below a specified value threshold.
+Non-catalog items below a lower value threshold for office supplies and IT accessories may also be shipped to a home address if no asset account is required.
+For higher value or asset purchases, shipping must be to an office or partner location.
+Home addresses can be added and managed during the purchase requisition process.
+How do I request changes or report issues with shipping documents?
+
+Changes to shipping documents should be made while the order status is "Scheduled" or "Fulfillment in Progress" using the designated Change Order Tool.
+For exceptions or after shipping has started, open a "Shipping Documentation" case via the customer service portal.
+Shipping document changes are generally not permitted once lines reach "Shipping in Progress" status, except for rare exceptions.
+What should I do if there is a short, over, or damaged shipment?
+
+Open a "Shipment Delivery Issue" case in the customer service portal with details of missing or damaged items.
+The shipping team will investigate internally and may create a replacement order if confirmed.
+If opting out, the account owner must file a claim with the carrier.
+How do I contact customer service for shipping-related queries?
+
+Log into the customer service portal with your credentials.
+Search for "Shipping Documents" and open a case under "Shipping Documentation."
+Provide all required information such as case title, request type, sales order number, product type, and document type.
+After submission, you will receive a case number and updates from the customer service team.
+Are there any special considerations for specific product categories?
+
+Some product categories have specific shipping programs and routing tools for managing ship methods.
+Returns and warranty processes for hardware are managed through designated dashboards or portals.
+Subscription licensing and returns have specific policies and processes.
+What are the expected shipping times for different locations?
+
+Domestic Shipments: Typically delivered within 2–7 business days depending on distance and carrier availability.
+International Shipments:
+North America and Europe: Usually 2–5 business days.
+Other international locations: Generally 2–5 business days, with some variation based on courier and customs processing.
+Special Regions:
+Shipments to Canada generally take 2–7 business days, with longer transit times for eastern regions.
+Shipments to Mexico typically arrive in 2–5 business days, subject to customs delays.
+Shipments to Australia and New Zealand are shipped from US distribution centers; transit times vary by carrier and destination.
+Additional transit days may apply for non-capital or remote areas.
+Shipping times exclude order processing and handling time, which may add several days.
+What are the typical shipping costs associated with different shipment types?
+
+Parcel Shipments (up to 68 kg / 150 lbs): Shipped via parcel carriers such as FedEx, UPS, or DHL Express. Costs are generally calculated as a flat percentage of the net hardware cost or based on carrier rates.
+Freight Shipments (above 68 kg / 150 lbs): Shipped via freight forwarders. Freight costs are higher and depend on weight, volume, and destination.
+Shipping costs vary based on agreements with carriers and chosen shipping methods.
+Some shipments may incur additional customs fees, duties, and taxes payable by the customer.
+Unified carrier selection and shipping cost models aim to provide predictable and reliable delivery pricing.
+What fictitious customer name is used in this document?
+
+For illustrative purposes, the fictitious customer name "Helios Managed IT" is used where customer references are relevant.
+Example: "Helios Managed IT" is a managed IT services provider used to demonstrate customer-related scenarios in shipping and ordering processes.
+This name is purely fictional and intended for training and documentation examples only.
+
+
+In-Store Returns, Exchanges, and Credit Notes
+
+In-Store Return Policy:
+
+
+Items purchased from Retailco stores or online can be returned in-store within 30 days of purchase with the original receipt or proof of purchase.
+Returned items must be unused, in original packaging, and in saleable condition.
+Some items, such as perishable goods, personal care products, or customized items, may be excluded from the standard return policy. Please check the product category for specific return terms.
+
+Exchange and Credit Note Policy:
+
+
+If you wish to exchange an item, bring the product and proof of purchase to any Retailco store within the return period.
+If a suitable replacement item is not available, you may request a Retailco credit note for the value of the returned item.
+Credit notes are valid for 12 months from the date of issue and can be redeemed in-store on future purchases.
+Credit notes are non-transferable and cannot be exchanged for cash.
+
+Important Notes:
+
+
+Returns and exchanges are subject to inspection by Retailco staff to ensure compliance with return conditions.
+Original payment methods will be refunded where possible. If this is not feasible, a credit note will be issued.
+For items purchased as part of a bundle or promotion, all related items may need to be returned to process a full refund or exchange.
+
+Contact Information:
+
+
+For questions about in-store returns, exchanges, or credit notes, please visit your nearest Retailco location or contact our customer service team through the portal.
+
+
+Example:
+
+
+A customer purchases headphones from Retailco and wishes to return them within 10 days. The unopened product and receipt are brought to the store. The customer may exchange for another headphone model, or, if none is suitable, receive a credit note to use on a future purchase.
+
+
+Edge Cases & Considerations:
+
+
+Items without a receipt may only be exchanged or credited at the discretion of Retailco management.
+Returns attempted after 30 days may not be accepted.
+Seasonal and clearance items may be final sale and not eligible for return or exchange.
