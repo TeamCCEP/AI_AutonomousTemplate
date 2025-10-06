@@ -1,0 +1,31 @@
+{
+  "bot_type": "virtualagent",
+  "configuration": {
+    "ai_engine": "PRO_US",
+    "default_language": "en-US",
+    "kb_ids": [
+      "68e3e2bf478d10d49ef1cd54"
+    ],
+    "llm_agent_description": "Answer any questions your customer may have\n\n### INSTRUCTIONS:\nSearch your knowledge base for the answer to questions that the customer may have.  If they ask a question you do not have the answer to, inform them that you are just an AI developed for testing purposes, you are not using real data, and you don't have all of the answers at this time.  ",
+    "llm_model": "1.0.0",
+    "logo": "https://studio.aiagent-us1.cisco.com/static/assets/img/bot-logo/default-virtualagent.svg",
+    "voice_settings": {
+      "voices": []
+    },
+    "welcome_message": "Hi there, I am an AI developed for you to try out.  I'm here to assist you in answering any questions you may have; but please note my knowledge is based on synthetic data and is for testing purposes only. What is it you'd like to know?  Feel free to ask me what I can do; Just talk to me like you would a human!"
+  },
+  "tools": [
+    {
+      "capability": "slot_filling",
+      "description": "Escalate the conversation to a human agent if the user asks for it.",
+      "enabled": true,
+      "fulfillment": {},
+      "id": "ee32ed585b838a75dfd56951e6cd9663",
+      "name": "Agent handover",
+      "slots": [],
+      "slots_view": "table",
+      "system_tool": true
+    }
+  ],
+  "transaction_id": "e3a6da8f3c3d4b4e85e7872c0523e509"
+}
